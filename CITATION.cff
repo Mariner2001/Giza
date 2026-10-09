@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the article below."
+title: "Revisiting the Giza Pyramids Construction metaheuristic: code and data"
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+license: MIT
+repository-code: "https://github.com/[user]/gpc-revisited"
+preferred-citation:
+  type: article
+  title: "Revisiting the Giza Pyramids Construction metaheuristic: errors, origin bias and an independent re-evaluation"
+  authors:
+    - family-names: "[Surname]"
+      given-names: "[Given name]"
+  journal: "[Journal, once accepted]"
+  year: 2026

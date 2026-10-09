@@ -1,0 +1,11 @@
+{
+ "beta": 0.29381482056855274,
+ "alpha_min": 0.005090980301287991,
+ "alpha_max": 0.04404173418435941,
+ "bound_rho_half": 0.40766006982877834,
+ "bound_valid_for_abs_p_at_least": 0.007319151899177006,
+ "exact_prob_without_displacement": 0.8206633341140338,
+ "mc_prob_contract_p1": 0.8189145,
+ "griewank_clipped_fraction_p100": 0.6653685,
+ "corollary_example_bound": 1.024e-07
+}

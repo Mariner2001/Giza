@@ -1,0 +1,242 @@
+{
+ "baboon.png|256|RGB|K3": {
+  "kmeans_value": 3157672.5009968,
+  "published": 888033,
+  "ratio": 3.555805359707128
+ },
+ "baboon.png|256|RGB|K4": {
+  "kmeans_value": 2559480.0959564024,
+  "published": 724431,
+  "ratio": 3.533090240418207
+ },
+ "baboon.png|256|RGB|K5": {
+  "kmeans_value": 2244556.2921950715,
+  "published": 642019,
+  "ratio": 3.4960901347079627
+ },
+ "baboon.png|256|grey|K3": {
+  "kmeans_value": 794567.7908220562,
+  "published": 888033,
+  "ratio": 0.8947502973673909
+ },
+ "baboon.png|256|grey|K4": {
+  "kmeans_value": 622270.7108230507,
+  "published": 724431,
+  "ratio": 0.858978578806057
+ },
+ "baboon.png|256|grey|K5": {
+  "kmeans_value": 499912.3568532362,
+  "published": 642019,
+  "ratio": 0.7786566392166528
+ },
+ "baboon.png|256|CIELAB|K3": {
+  "kmeans_value": 1218100.499760194,
+  "published": 888033,
+  "ratio": 1.3716838222906063
+ },
+ "baboon.png|256|CIELAB|K4": {
+  "kmeans_value": 1019872.4508472421,
+  "published": 724431,
+  "ratio": 1.4078255221646259
+ },
+ "baboon.png|256|CIELAB|K5": {
+  "kmeans_value": 908089.0542431391,
+  "published": 642019,
+  "ratio": 1.4144270718516727
+ },
+ "baboon.png|256|HSVx255|K3": {
+  "kmeans_value": 3654792.805824733,
+  "published": 888033,
+  "ratio": 4.115604719447062
+ },
+ "baboon.png|256|HSVx255|K4": {
+  "kmeans_value": 3213075.5414038496,
+  "published": 724431,
+  "ratio": 4.43530928605188
+ },
+ "baboon.png|256|HSVx255|K5": {
+  "kmeans_value": 2898040.9636465423,
+  "published": 642019,
+  "ratio": 4.513948907503582
+ },
+ "baboon.png|128|RGB|K3": {
+  "kmeans_value": 763319.7800612943,
+  "published": 888033,
+  "ratio": 0.8595624037184365
+ },
+ "baboon.png|128|RGB|K4": {
+  "kmeans_value": 612987.7819040152,
+  "published": 724431,
+  "ratio": 0.8461644820611145
+ },
+ "baboon.png|128|RGB|K5": {
+  "kmeans_value": 537760.792124879,
+  "published": 642019,
+  "ratio": 0.8376088435464978
+ },
+ "baboon.png|128|grey|K3": {
+  "kmeans_value": 191258.39340520086,
+  "published": 888033,
+  "ratio": 0.21537306992555552
+ },
+ "baboon.png|128|grey|K4": {
+  "kmeans_value": 148648.6628000163,
+  "published": 724431,
+  "ratio": 0.20519368000543362
+ },
+ "baboon.png|128|grey|K5": {
+  "kmeans_value": 118952.93907109089,
+  "published": 642019,
+  "ratio": 0.1852794684753736
+ },
+ "baboon.png|128|CIELAB|K3": {
+  "kmeans_value": 289245.24988931784,
+  "published": 888033,
+  "ratio": 0.325714528502114
+ },
+ "baboon.png|128|CIELAB|K4": {
+  "kmeans_value": 242986.3190192189,
+  "published": 724431,
+  "ratio": 0.3354167878227449
+ },
+ "baboon.png|128|CIELAB|K5": {
+  "kmeans_value": 216137.4928759838,
+  "published": 642019,
+  "ratio": 0.3366527982442635
+ },
+ "baboon.png|128|HSVx255|K3": {
+  "kmeans_value": 867914.9908885318,
+  "published": 888033,
+  "ratio": 0.9773454262268765
+ },
+ "baboon.png|128|HSVx255|K4": {
+  "kmeans_value": 753304.8310614913,
+  "published": 724431,
+  "ratio": 1.0398572549511151
+ },
+ "baboon.png|128|HSVx255|K5": {
+  "kmeans_value": 681322.5279118242,
+  "published": 642019,
+  "ratio": 1.0612186366942788
+ },
+ "peppers.png|256|RGB|K3": {
+  "kmeans_value": 2846882.1746780947,
+  "published": 762524,
+  "ratio": 3.733498453397001
+ },
+ "peppers.png|256|RGB|K4": {
+  "kmeans_value": 2315278.4929215237,
+  "published": 654789,
+  "ratio": 3.535915375672963
+ },
+ "peppers.png|256|RGB|K5": {
+  "kmeans_value": 2016251.4802185171,
+  "published": 569241,
+  "ratio": 3.5419997509288987
+ },
+ "peppers.png|256|grey|K3": {
+  "kmeans_value": 1057083.9683616862,
+  "published": 762524,
+  "ratio": 1.386295996403636
+ },
+ "peppers.png|256|grey|K4": {
+  "kmeans_value": 770117.9070903516,
+  "published": 654789,
+  "ratio": 1.1761314058274521
+ },
+ "peppers.png|256|grey|K5": {
+  "kmeans_value": 641470.1643526339,
+  "published": 569241,
+  "ratio": 1.126886791978501
+ },
+ "peppers.png|256|CIELAB|K3": {
+  "kmeans_value": 1020008.1842954041,
+  "published": 762524,
+  "ratio": 1.3376735477118151
+ },
+ "peppers.png|256|CIELAB|K4": {
+  "kmeans_value": 908942.3469427836,
+  "published": 654789,
+  "ratio": 1.388145413167881
+ },
+ "peppers.png|256|CIELAB|K5": {
+  "kmeans_value": 791928.1094956757,
+  "published": 569241,
+  "ratio": 1.3912000532211763
+ },
+ "peppers.png|256|HSVx255|K3": {
+  "kmeans_value": 3054589.8549065464,
+  "published": 762524,
+  "ratio": 4.005893394708293
+ },
+ "peppers.png|256|HSVx255|K4": {
+  "kmeans_value": 2475810.8820236223,
+  "published": 654789,
+  "ratio": 3.781081969953103
+ },
+ "peppers.png|256|HSVx255|K5": {
+  "kmeans_value": 2142364.2484682244,
+  "published": 569241,
+  "ratio": 3.76354522683402
+ },
+ "peppers.png|128|RGB|K3": {
+  "kmeans_value": 702500.3782181371,
+  "published": 762524,
+  "ratio": 0.921282973674451
+ },
+ "peppers.png|128|RGB|K4": {
+  "kmeans_value": 576264.4312240701,
+  "published": 654789,
+  "ratio": 0.880076530338888
+ },
+ "peppers.png|128|RGB|K5": {
+  "kmeans_value": 504505.83919714927,
+  "published": 569241,
+  "ratio": 0.8862781127802623
+ },
+ "peppers.png|128|grey|K3": {
+  "kmeans_value": 261867.93953141465,
+  "published": 762524,
+  "ratio": 0.3434225539542554
+ },
+ "peppers.png|128|grey|K4": {
+  "kmeans_value": 191440.01994502184,
+  "published": 654789,
+  "ratio": 0.29236902260884323
+ },
+ "peppers.png|128|grey|K5": {
+  "kmeans_value": 160460.393156424,
+  "published": 569241,
+  "ratio": 0.2818848135612579
+ },
+ "peppers.png|128|CIELAB|K3": {
+  "kmeans_value": 255559.58667569366,
+  "published": 762524,
+  "ratio": 0.33514956470313545
+ },
+ "peppers.png|128|CIELAB|K4": {
+  "kmeans_value": 225865.5772632264,
+  "published": 654789,
+  "ratio": 0.3449440617713896
+ },
+ "peppers.png|128|CIELAB|K5": {
+  "kmeans_value": 197433.94584872035,
+  "published": 569241,
+  "ratio": 0.3468371846875407
+ },
+ "peppers.png|128|HSVx255|K3": {
+  "kmeans_value": 756769.9611040266,
+  "published": 762524,
+  "ratio": 0.9924539569954869
+ },
+ "peppers.png|128|HSVx255|K4": {
+  "kmeans_value": 612823.275167915,
+  "published": 654789,
+  "ratio": 0.9359095451632741
+ },
+ "peppers.png|128|HSVx255|K5": {
+  "kmeans_value": 532047.0159714947,
+  "published": 569241,
+  "ratio": 0.9346603915942364
+ }
+}

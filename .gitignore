@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# the authors' MATLAB script is not redistributed (see code/matlab_check/README.md)
+code/matlab_check/GPC.m
+code/matlab_check/work/
+data/BSDS500/
+data/standard_test_images/
