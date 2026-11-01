@@ -2,8 +2,10 @@
 
 This repository contains the code and the raw results of the paper
 
-> [Authors] (2026). *Revisiting the Giza Pyramids Construction metaheuristic: errors, origin bias and an
+> Úbeda-Flores, M. (2026). *Revisiting the Giza Pyramids Construction metaheuristic: errors, origin bias and an
 > independent re-evaluation.* Submitted to *Evolutionary Intelligence*.
+
+[DOI](https://doi.org/10.5281/zenodo.23857080)
 
 which re-examines
 
