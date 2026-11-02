@@ -1,0 +1,454 @@
+{
+ "GPC": {
+  "label": "GPC (default)",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "changed": 24,
+  "dlog": 23.933304436319588
+ },
+ "GPC-A": {
+  "label": "additive update (GPC-A)",
+  "solved_E1": 0,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   10,
+   0,
+   20
+  ],
+  "wtl_E2a": [
+   24,
+   4,
+   2
+  ],
+  "changed": 2,
+  "dlog": -0.000354497563059133
+ },
+ "GPC_nod": {
+  "label": "no stone displacement ($d=0$)",
+  "solved_E1": 13,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   11,
+   16,
+   3
+  ],
+  "wtl_E2a": [
+   1,
+   27,
+   2
+  ],
+  "changed": 24,
+  "dlog": 29.851518878062485
+ },
+ "GPC_pss0": {
+  "label": "one coordinate per child ($p_{ss}=0$)",
+  "solved_E1": 7,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   5,
+   9,
+   16
+  ],
+  "wtl_E2a": [
+   15,
+   13,
+   2
+  ],
+  "changed": 24,
+  "dlog": 9.775416446992494
+ },
+ "GPC_pss1": {
+  "label": "no substitution ($p_{ss}=1$)",
+  "solved_E1": 14,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   9,
+   13,
+   8
+  ],
+  "wtl_E2a": [
+   0,
+   13,
+   17
+  ],
+  "changed": 22,
+  "dlog": 30.300868318790826
+ },
+ "GPC_reinit": {
+  "label": "random re-initialisation instead of clipping",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   4,
+   26,
+   0
+  ],
+  "wtl_E2a": [
+   8,
+   22,
+   0
+  ],
+  "changed": 26,
+  "dlog": 24.084959360796347
+ },
+ "GPC_nonelit": {
+  "label": "no elitism (children replace parents)",
+  "solved_E1": 9,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   0,
+   3,
+   27
+  ],
+  "wtl_E2a": [
+   0,
+   4,
+   26
+  ],
+  "changed": 23,
+  "dlog": 11.030866339835551
+ },
+ "GPC_theta5": {
+  "label": "$\\theta=5^\\circ$",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   8,
+   15,
+   7
+  ],
+  "wtl_E2a": [
+   13,
+   17,
+   0
+  ],
+  "changed": 23,
+  "dlog": 23.123099074390105
+ },
+ "GPC14": {
+  "label": "$\\theta=14^\\circ$",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   5,
+   19,
+   6
+  ],
+  "wtl_E2a": [
+   0,
+   25,
+   5
+  ],
+  "changed": 26,
+  "dlog": 24.235934690634085
+ },
+ "GPC_theta30": {
+  "label": "$\\theta=30^\\circ$",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   9,
+   12,
+   9
+  ],
+  "wtl_E2a": [
+   0,
+   13,
+   17
+  ],
+  "changed": 23,
+  "dlog": 25.581270029340367
+ },
+ "GPC_theta60": {
+  "label": "$\\theta=60^\\circ$",
+  "solved_E1": 13,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   10,
+   10,
+   10
+  ],
+  "wtl_E2a": [
+   2,
+   8,
+   20
+  ],
+  "changed": 25,
+  "dlog": 26.153985296187468
+ },
+ "GPC_mu0.1-1": {
+  "label": "$\\mu_k\\in[0.1,1]$",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   4,
+   13,
+   13
+  ],
+  "wtl_E2a": [
+   4,
+   26,
+   0
+  ],
+  "changed": 25,
+  "dlog": 22.254948136322334
+ },
+ "GPC_mu10-100": {
+  "label": "$\\mu_k\\in[10,100]$",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   9,
+   20,
+   1
+  ],
+  "wtl_E2a": [
+   1,
+   27,
+   2
+  ],
+  "changed": 23,
+  "dlog": 26.232656976831233
+ },
+ "GPC_n10": {
+  "label": "$n=10$",
+  "solved_E1": 13,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   9,
+   17,
+   4
+  ],
+  "wtl_E2a": [
+   1,
+   25,
+   4
+  ],
+  "changed": 25,
+  "dlog": 25.912757607615124
+ },
+ "GPC_n50": {
+  "label": "$n=50$",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   3,
+   11,
+   16
+  ],
+  "wtl_E2a": [
+   5,
+   22,
+   3
+  ],
+  "changed": 22,
+  "dlog": 21.936386478992215
+ },
+ "GPC_n100": {
+  "label": "$n=100$",
+  "solved_E1": 11,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   3,
+   9,
+   18
+  ],
+  "wtl_E2a": [
+   9,
+   11,
+   10
+  ],
+  "changed": 23,
+  "dlog": 18.304532211313273
+ },
+ "GPC_pss0.1": {
+  "label": "$p_{ss}=0.1$",
+  "solved_E1": 10,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   4,
+   12,
+   14
+  ],
+  "wtl_E2a": [
+   14,
+   15,
+   1
+  ],
+  "changed": 26,
+  "dlog": 18.492183196432848
+ },
+ "GPC_pss0.3": {
+  "label": "$p_{ss}=0.3$",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   1,
+   18,
+   11
+  ],
+  "wtl_E2a": [
+   8,
+   22,
+   0
+  ],
+  "changed": 24,
+  "dlog": 21.788144855021606
+ },
+ "GPC_pss0.7": {
+  "label": "$p_{ss}=0.7$",
+  "solved_E1": 13,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   8,
+   17,
+   5
+  ],
+  "wtl_E2a": [
+   0,
+   23,
+   7
+  ],
+  "changed": 24,
+  "dlog": 26.032999984367272
+ },
+ "GPC_pss0.9": {
+  "label": "$p_{ss}=0.9$",
+  "solved_E1": 14,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   10,
+   15,
+   5
+  ],
+  "wtl_E2a": [
+   0,
+   12,
+   18
+  ],
+  "changed": 23,
+  "dlog": 28.672858780153625
+ },
+ "GPC_lhs": {
+  "label": "Latin-hypercube initialisation",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   1,
+   28,
+   1
+  ],
+  "wtl_E2a": [
+   0,
+   29,
+   1
+  ],
+  "changed": 24,
+  "dlog": 24.25025846785935
+ },
+ "GPC_corner": {
+  "label": "initialisation in the upper quarter of the box",
+  "solved_E1": 12,
+  "n_E1": 14,
+  "solved_E2a": 0,
+  "n_E2a": 14,
+  "solved_E2b": 0,
+  "n_E2b": 14,
+  "wtl_E1": [
+   0,
+   28,
+   2
+  ],
+  "wtl_E2a": [
+   2,
+   18,
+   10
+  ],
+  "changed": 26,
+  "dlog": 24.41371787390547
+ }
+}

@@ -1,0 +1,12 @@
+L-SHADE  F1  ours 0 (med 0)  minion 0 (med 0)  MW p=1.00  nfev [100000, 100000]  8s
+jSO      F1  ours 0 (med 0)  minion 0 (med 0)  MW p=1.00  nfev [100003, 100003]  7s
+L-SHADE  F4  ours 0 (med 0)  minion 0 (med 0)  MW p=1.00  nfev [100000, 100000]  7s
+jSO      F4  ours 0 (med 0)  minion 0 (med 0)  MW p=1.00  nfev [100003, 100003]  7s
+L-SHADE  F5  ours 2.89 (med 2.99)  minion 2.39 (med 2.99)  MW p=0.21  nfev [100000, 100000]  9s
+jSO      F5  ours 1.89 (med 1.99)  minion 2.19 (med 1.99)  MW p=0.56  nfev [100003, 100003]  9s
+L-SHADE  F7  ours 12.4 (med 12.3)  minion 12.5 (med 12.6)  MW p=0.79  nfev [100000, 100000]  10s
+jSO      F7  ours 12.1 (med 11.9)  minion 12.3 (med 12.6)  MW p=0.47  nfev [100003, 100003]  9s
+L-SHADE  F10 ours 16.3 (med 8.77)  minion 30.3 (med 8.71)  MW p=0.73  nfev [100000, 100000]  9s
+jSO      F10 ours 31.9 (med 6.99)  minion 77.2 (med 68.7)  MW p=0.08  nfev [100003, 100003]  9s
+L-SHADE  F22 ours 100 (med 100)  minion 100 (med 100)  MW p=0.14  nfev [100000, 100000]  10s
+jSO      F22 ours 100 (med 100)  minion 100 (med 100)  MW p=1.00  nfev [100003, 100003]  10s
