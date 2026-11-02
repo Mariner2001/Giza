@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the paper and this software."
+title: "Revisiting the Giza Pyramids Construction metaheuristic: code and data"
+abstract: "Code and raw results of all experiments of the paper 'Revisiting the Giza Pyramids Construction metaheuristic: errors, origin bias and an independent re-evaluation'. Version 2.0.0 accompanies the revised version of the paper."
+version: "2.0.0"
+license: MIT
+repository-code: "https://github.com/Mariner2001/Giza"
+keywords:
+  - metaheuristics
+  - benchmarking
+  - reproducibility
+  - structural bias
+  - Giza Pyramids Construction
+authors:
+  - family-names: "Úbeda-Flores"
+    given-names: "M."
+preferred-citation:
+  type: article
+  title: "Revisiting the Giza Pyramids Construction metaheuristic: errors, origin bias and an independent re-evaluation"
+  authors:
+    - family-names: "Úbeda-Flores"
+      given-names: "M."
+  journal: "Evolutionary Intelligence"
+  year: 2026
+  status: submitted
